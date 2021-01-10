@@ -32,7 +32,7 @@ import NanoLeafDiscovery
 
 NanoLeafDiscovery.scan() # returns [{'ip': '192.168.1.1'}]
 NanoLeafDiscovery.scan(name=True) # returns [{'ip': 192.168.1.1, 'name': 'Canvas-f77e'}]
-NanoLeafDiscovery.scan(name=True, type=True, ip=False) # returns [{'name': 'Canvas-f77e', 'type':'Canvas-f77e'}]
+NanoLeafDiscovery.scan(name=True, type=True, ip=False) # returns [{'name': 'Canvas-f77e', 'type':'Canvas'}]
 ```
 
 ## License
