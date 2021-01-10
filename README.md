@@ -12,6 +12,7 @@ pip install NanoLeafDiscovery
 
 Or [here](https://pypi.org/project/NanoLeafDiscovery/0.0.2/) 
 
+/!\ REQUIRE [SOCKET]() AND [REQUESTS](https://pypi.org/project/requests/)
 
 
 ## Options
