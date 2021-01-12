@@ -1,0 +1,12 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.md
+setup.py
+NanoLeafDiscovery/__init__.py
+NanoLeafDiscovery/nano.py
+NanoLeafDiscovery.egg-info/PKG-INFO
+NanoLeafDiscovery.egg-info/SOURCES.txt
+NanoLeafDiscovery.egg-info/dependency_links.txt
+NanoLeafDiscovery.egg-info/requires.txt
+NanoLeafDiscovery.egg-info/top_level.txt
