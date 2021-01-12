@@ -10,7 +10,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Nanolea
 pip install NanoLeafDiscovery
 ```
 
-Or [here](https://pypi.org/project/NanoLeafDiscovery/0.0.2/) 
+Or [here](https://pypi.org/project/NanoLeafDiscovery/) 
 
 /!\ REQUIRE [SOCKET] AND [REQUESTS](https://pypi.org/project/requests/) /!\ 
 
