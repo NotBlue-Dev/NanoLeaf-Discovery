@@ -2,7 +2,7 @@
 
 Nanoleaf Discovery is a Python library to discover every nanoleaf device on the network, the others api use the ssdp protocol to find the nanoleafs, the drawback is that it doesn't work every time so I used the api that the official nanoleaf app uses to find the nanoleafs, this one always works /!\ except with a vpn /!\
 
-**THIS IS NOT AN API FOR CONTROLLING THE NANOLEAF, IT'S ONLY A DISCOVERY MODULE (YOU CAN COMBINE IT WITH OTHER API IF THE DISCOVERY DIDNT WORK**
+**THIS IS NOT AN API FOR CONTROLLING THE NANOLEAF, IT'S ONLY A DISCOVERY MODULE (YOU CAN COMBINE IT WITH OTHER API IF THE DISCOVERY DIDNT WORK)**
 
 ## Installation
 
